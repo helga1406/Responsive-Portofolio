@@ -26,7 +26,11 @@ Tujuan utama dari proyek ini adalah untuk menerapkan pemahaman dasar HTML dan CS
 
 ### Bukti Modifikasi Framework (Tidak Digunakan)
 
-Proyek ini dibuat dari nol tanpa menggunakan framework CSS seperti Bootstrap atau Tailwind. Oleh karena itu, tidak ada bukti modifikasi yang perlu dilampirkan.
+Proyek ini dibuat tanpa menggunakan framework CSS seperti Bootstrap atau Tailwind. Oleh karena itu, tidak ada bukti modifikasi yang perlu dilampirkan.
+
+---
+
+
 
 ### Tautan Proyek
 
