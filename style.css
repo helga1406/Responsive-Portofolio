@@ -184,6 +184,12 @@ h3 {
     margin: 0;
 }
 
+.education-details {
+    font-style: italic;
+    color: #fff;
+    margin: 0;
+}
+
 /* --- Skills Section --- */
 .skills-list {
     list-style: none;
